@@ -1,2 +1,15 @@
-[[The Ivory Lions]]
-[[Blue Birds]]
+
+Ranking: 
+1: [[The Ivory Lions]]
+2:
+3:
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+11:
+12:
+13: [[Blue Birds]]

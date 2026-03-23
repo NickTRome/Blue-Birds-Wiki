@@ -8,7 +8,6 @@ https://quartz.jzhao.xyz/authoring-content
 https://www.youtube.com/watch?v=zGFroBGud7w
 
 cd quartz
-cd .github
 npx quartz sync
 git push -u origin v4
 
