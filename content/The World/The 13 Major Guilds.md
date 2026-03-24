@@ -1,3 +1,6 @@
+The Guilds work with the government but have a decent degree of automation.
+
+Guilds are rated by effectively house points.
 
 Ranking: 
 1. [[The Ivory Lions]]

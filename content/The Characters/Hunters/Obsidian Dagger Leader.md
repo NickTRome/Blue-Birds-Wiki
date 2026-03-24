@@ -1,0 +1,1 @@
+Guild Leader of the [[Obsidian Daggers]]

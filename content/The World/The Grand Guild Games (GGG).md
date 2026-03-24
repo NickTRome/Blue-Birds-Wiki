@@ -1,0 +1,1 @@
+A Yearly Event where [[The 13 Major Guilds]] compete for Ranking points. It is used as a way to show off the Kingdoms Strength and hype up the people.

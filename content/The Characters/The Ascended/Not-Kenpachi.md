@@ -1,0 +1,1 @@
+Someone with a simple straightforward ability that is incredibly powerful with using it.

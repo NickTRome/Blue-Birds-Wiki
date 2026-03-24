@@ -1,0 +1,1 @@
+An unexplored land mass currently unclaimed by any Kingdom.

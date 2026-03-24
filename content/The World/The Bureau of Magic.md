@@ -1,0 +1,1 @@
+A Group of Mages that work for the Crown. They are in charge of distributing Licenses, Tiering Mages and verifying the feats of the Guilds.
